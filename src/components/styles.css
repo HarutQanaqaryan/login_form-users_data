@@ -1,0 +1,72 @@
+.sign-up-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 450px;
+  border-radius: 4px;
+  padding: 15px;
+  margin-top: 80px;
+  background-color: rgb(255, 255, 255);
+}
+.header {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgba(0, 202, 252, 0.281);
+}
+.login,
+.password,
+.email,
+.phone {
+  margin-bottom: 20px;
+}
+.button {
+  background-color: rgba(0, 202, 252, 0.384);
+  height: 50px;
+  border-radius: 4px;
+  color: grey;
+  font-size: 18px;
+  cursor: pointer;
+}
+.button:disabled {
+  background-color: rgba(0, 202, 252, 0.137);
+  cursor: not-allowed;
+}
+.users-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.user-cart {
+    display: flex;
+    justify-content:start;
+    flex-direction: column;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 250px;
+  padding: 10px;
+  border: 1px solid rgba(0, 202, 252, 0.568);
+  border-radius: 4px;
+  margin: 10px;
+  color: rgba(0, 87, 109, 0.979);
+  background-color: rgba(255, 255, 255, 0.562);
+}
+.user-info {
+    font-size: 12px;
+    text-decoration: underline;
+    color:  rgba(0, 87, 109, 0.979);
+}
+
+@media screen and (max-width: 700px) {
+    .user-cart {
+        width: 150px;
+        padding: 5px;
+        font-size: 8px;
+        margin: 5px;
+    }
+    .user-info {
+        font-size: 6px;
+    }
+    .sign-up-container {
+        width: 200px;
+        font-size: 10px;
+    }
+}
