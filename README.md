@@ -1,4 +1,4 @@
-# A small application for authorization, viewing creepers and filtering by username
+# A small application for authorization, viewing users and filtering by username
 
 Stack: React.js, CSS, Material-UI, AJAX
 
