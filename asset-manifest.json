@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/login_form-users_data/static/css/main.e685e58b.chunk.css",
+    "main.js": "/login_form-users_data/static/js/main.542f5357.chunk.js",
+    "main.js.map": "/login_form-users_data/static/js/main.542f5357.chunk.js.map",
+    "runtime-main.js": "/login_form-users_data/static/js/runtime-main.60bebc15.js",
+    "runtime-main.js.map": "/login_form-users_data/static/js/runtime-main.60bebc15.js.map",
+    "static/js/2.5d108c49.chunk.js": "/login_form-users_data/static/js/2.5d108c49.chunk.js",
+    "static/js/2.5d108c49.chunk.js.map": "/login_form-users_data/static/js/2.5d108c49.chunk.js.map",
+    "static/js/3.e41330ad.chunk.js": "/login_form-users_data/static/js/3.e41330ad.chunk.js",
+    "static/js/3.e41330ad.chunk.js.map": "/login_form-users_data/static/js/3.e41330ad.chunk.js.map",
+    "index.html": "/login_form-users_data/index.html",
+    "static/css/main.e685e58b.chunk.css.map": "/login_form-users_data/static/css/main.e685e58b.chunk.css.map",
+    "static/js/2.5d108c49.chunk.js.LICENSE.txt": "/login_form-users_data/static/js/2.5d108c49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60bebc15.js",
+    "static/js/2.5d108c49.chunk.js",
+    "static/css/main.e685e58b.chunk.css",
+    "static/js/main.542f5357.chunk.js"
+  ]
+}
